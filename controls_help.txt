@@ -1,8 +1,8 @@
 GAME CONTROLS:
-- Press 'Up arrow' int the keyboard to turn North
-- Press 'Down arrow' int the keyboard to turn South
-- Press 'Left arrow' int the keyboard to turn West
-- Press 'Right arrow' int the keyboard to turn East
+- Press 'Up arrow' in the keyboard to turn North
+- Press 'Down arrow' in the keyboard to turn South
+- Press 'Left arrow' in the keyboard to turn West
+- Press 'Right arrow' in the keyboard to turn East
 
 
 COMPAS MAP:
